@@ -19,4 +19,8 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0389-find-the-difference) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
