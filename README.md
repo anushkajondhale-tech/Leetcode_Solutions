@@ -10,6 +10,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 ## String
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0389-find-the-difference](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
@@ -23,4 +24,16 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0182-duplicate-emails) |
+## Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0316-remove-duplicate-letters) |
+## Greedy
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0316-remove-duplicate-letters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
