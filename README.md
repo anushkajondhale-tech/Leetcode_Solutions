@@ -29,6 +29,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0316-remove-duplicate-letters](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0316-remove-duplicate-letters) |
 ## Greedy
 |  |
@@ -66,4 +67,12 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0912-sort-an-array) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
