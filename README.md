@@ -13,6 +13,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 | [0058-length-of-last-word](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0058-length-of-last-word) |
 | [0316-remove-duplicate-letters](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0389-find-the-difference](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0389-find-the-difference) |
+| [1021-remove-outermost-parentheses](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0316-remove-duplicate-letters](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0316-remove-duplicate-letters) |
+| [1021-remove-outermost-parentheses](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -75,4 +77,8 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
