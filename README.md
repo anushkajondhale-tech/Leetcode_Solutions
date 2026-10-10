@@ -96,5 +96,10 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0326-power-of-three) |
 | [0445-add-two-numbers-ii](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0445-add-two-numbers-ii) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
