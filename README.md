@@ -31,6 +31,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0445-add-two-numbers-ii](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0445-add-two-numbers-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -74,10 +75,12 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 ## Bracket Sequences
 |  |
 | ------- |
