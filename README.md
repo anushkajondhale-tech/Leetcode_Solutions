@@ -49,6 +49,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0912-sort-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -102,4 +103,8 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0326-power-of-three) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
