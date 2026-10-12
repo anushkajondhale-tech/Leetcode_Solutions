@@ -48,6 +48,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 ## Array
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
 | [0912-sort-an-array](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0912-sort-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Divide and Conquer
@@ -80,12 +81,14 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -94,6 +97,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0445-add-two-numbers-ii) |
+| [0622-design-circular-queue](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
 ## Math
 |  |
 | ------- |
