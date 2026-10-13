@@ -23,6 +23,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0148-sort-list) |
 | [0389-find-the-difference](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0912-sort-an-array](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0912-sort-an-array) |
 ## Database
@@ -55,6 +56,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -63,6 +65,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -99,6 +102,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0148-sort-list) |
 | [0445-add-two-numbers-ii](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0622-design-circular-queue](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0641-design-circular-deque) |
@@ -123,4 +127,8 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Two Pointers
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
