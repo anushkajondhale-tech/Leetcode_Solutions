@@ -35,6 +35,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0445-add-two-numbers-ii](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0445-add-two-numbers-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -103,6 +104,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0148-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0622-design-circular-queue](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0641-design-circular-deque) |
@@ -114,6 +116,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 ## Recursion
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0326-power-of-three) |
 ## Enumeration
 |  |
@@ -131,4 +134,5 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0148-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
