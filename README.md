@@ -50,6 +50,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0622-design-circular-queue](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0641-design-circular-deque) |
 | [0912-sort-an-array](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0912-sort-an-array) |
@@ -128,6 +129,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0374-guess-number-higher-or-lower](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0374-guess-number-higher-or-lower) |
 ## Interactive
 |  |
