@@ -54,11 +54,13 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 | [0641-design-circular-deque](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0641-design-circular-deque) |
 | [0912-sort-an-array](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0912-sort-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0912-sort-an-array) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 | ------- |
 | [0148-sort-list](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0912-sort-an-array) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -135,4 +138,16 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 | ------- |
 | [0148-sort-list](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
+## Segment Tree
+|  |
+| ------- |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 <!---LeetCode Topics End-->
