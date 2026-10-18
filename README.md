@@ -7,6 +7,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 ## String
@@ -26,6 +27,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 | ------- |
 | [0148-sort-list](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0148-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0912-sort-an-array](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0912-sort-an-array) |
 ## Database
@@ -54,6 +56,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 | ------- |
 | [0035-search-insert-position](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0622-design-circular-queue](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0641-design-circular-deque) |
 | [0912-sort-an-array](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0912-sort-an-array) |
@@ -134,6 +137,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 | ------- |
 | [0035-search-insert-position](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0374-guess-number-higher-or-lower) |
 ## Interactive
 |  |
@@ -145,6 +149,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 | [0148-sort-list](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
