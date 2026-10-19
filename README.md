@@ -30,6 +30,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 | [0350-intersection-of-two-arrays-ii](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0912-sort-an-array](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0912-sort-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Database
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 | [0622-design-circular-queue](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0641-design-circular-deque) |
 | [0912-sort-an-array](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0912-sort-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Divide and Conquer
@@ -139,6 +141,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 | [0349-intersection-of-two-arrays](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Interactive
 |  |
 | ------- |
