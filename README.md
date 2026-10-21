@@ -18,6 +18,7 @@ A collection of my LeetCode solutions and Data Structures &amp; Algorithms pract
 | [0387-first-unique-character-in-a-string](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [1021-remove-outermost-parentheses](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/anushkajondhale-tech/Leetcode_Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
